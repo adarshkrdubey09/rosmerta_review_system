@@ -3,15 +3,23 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+<<<<<<< HEAD
   "homepage": "https://adarshkrdubey09.github.io/rosmerta_review_system/",
+=======
+  "homepage": "https://adarshkrdubey09.github.io/rosmerta_review_system",
+>>>>>>> 39eec2e13c7049e428b00ca74b2bc1ba737e3307
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+<<<<<<< HEAD
     "deploy": "gh-pages -d dist",
     "predeploy":"npm run build"
 
 
+=======
+    "deploy": "gh-pages -d dist"
+>>>>>>> 39eec2e13c7049e428b00ca74b2bc1ba737e3307
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.10",
